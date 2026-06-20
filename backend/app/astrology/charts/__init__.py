@@ -1,0 +1,1 @@
+"""Chart rendering payload builders."""

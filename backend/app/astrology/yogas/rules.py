@@ -1,0 +1,17 @@
+INITIAL_YOGA_NAMES: tuple[str, ...] = (
+    "Gaja Kesari Yoga",
+    "Budha Aditya Yoga",
+    "Chandra Mangala Yoga",
+    "Neecha Bhanga Raja Yoga",
+    "Raja Yoga",
+    "Dhana Yoga",
+    "Lakshmi Yoga",
+    "Vipareeta Raja Yoga",
+    "Ruchaka Yoga",
+    "Bhadra Yoga",
+    "Hamsa Yoga",
+    "Malavya Yoga",
+    "Sasa Yoga",
+    "Adhi Yoga",
+    "Kemadruma Yoga",
+)
